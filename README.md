@@ -22,6 +22,8 @@ This repository documents my academic research assistantships, university teachi
 
 ## 🔬 1. Academic Research Experience
 
+![Academic Research Experience - North South University (NSU)](Academic%20Research%20Experience%20-%20North%20South%20University%20(NSU).jpg)
+
 ### 1.1 Research Assistant (RA) — Mentored & Independent Research
 * **Faculty Mentor:** Dr. Md. Morshedul Alam, Associate Professor, Department of Biochemistry and Microbiology, North South University (NSU)
 * **Duration:** Summer 2025 – Summer 2026 *(Extended Appointment through Summer / August 2027)*
@@ -39,6 +41,8 @@ This repository documents my academic research assistantships, university teachi
 
 ## 🎓 2. University Teaching Assistantship
 
+![University Teaching Assistantship - North South University (NSU)](University%20Teaching%20Assistantship%20-%20North%20South%20University%20(NSU).jpg)
+
 ### 2.1 Undergraduate Teaching Assistant (UTA) — North South University (NSU)
 * **Faculty Supervisor:** Dr. Oly Ahmed, Department of Biochemistry and Microbiology, North South University (NSU)
 * **Duration:** Summer 2024 – Fall 2025
@@ -55,6 +59,8 @@ This repository documents my academic research assistantships, university teachi
 ---
 
 ## 🏛️ 3. Academic Leadership, Educational R&D & Science Instruction
+
+![Academic Leadership, Biomedical R&D & Science Instruction](Academic%20Leadership%2C%20Biomedical%20R%26D%20%26%20Science%20Instruction.jpg)
 
 ### 3.1 Co-Founder, Academic Lead & Science Instructor — UniMed
 * **Roles:** Co-Founder • Curriculum Architect • Visual Pedagogy Designer • Biology & Chemistry Instructor
